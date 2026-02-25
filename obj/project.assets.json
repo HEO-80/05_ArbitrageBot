@@ -818,11 +818,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Cursos\\BlockChain\\Etapa5\\ArbitrajeBot\\05_ArbitrageBot\\05_ArbitrageBot.csproj",
+      "projectUniqueName": "C:\\Cursos\\BlockChain\\Nivel1\\Etapa5\\ArbitrajeBot\\05_ArbitrageBot\\05_ArbitrageBot.csproj",
       "projectName": "05_ArbitrageBot",
-      "projectPath": "C:\\Cursos\\BlockChain\\Etapa5\\ArbitrajeBot\\05_ArbitrageBot\\05_ArbitrageBot.csproj",
+      "projectPath": "C:\\Cursos\\BlockChain\\Nivel1\\Etapa5\\ArbitrajeBot\\05_ArbitrageBot\\05_ArbitrageBot.csproj",
       "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-      "outputPath": "C:\\Cursos\\BlockChain\\Etapa5\\ArbitrajeBot\\05_ArbitrageBot\\obj\\",
+      "outputPath": "C:\\Cursos\\BlockChain\\Nivel1\\Etapa5\\ArbitrajeBot\\05_ArbitrageBot\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

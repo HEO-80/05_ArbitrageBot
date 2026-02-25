@@ -13,8 +13,8 @@ class Program
     static string privateKey = "0xac0974bec39a17e36ba4a6b4d238ff944bacb478cbed5efcae784d7bf4f2ff80";
     
     // OJO: ¡Asegúrate de que esta es la dirección de TU contrato FlashLoanBot desplegado!
-    static string contractAddress = "0xD01F3b6e16828628746e0C6Be4258B81572ba549"; 
     
+    static string contractAddress = "0xD01F3b6e16828628746e0C6Be4258B81572ba549";
     // Pool de Uniswap DAI/WETH
     static string poolAddress = "0xC2e9F25Be6257c210d7Adf0D4Cd6E3E881ba25f8";
 

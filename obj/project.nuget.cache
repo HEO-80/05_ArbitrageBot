@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "m6qSM2TOG18=",
+  "dgSpecHash": "5mMmFG0iMoI=",
   "success": true,
-  "projectFilePath": "C:\\Cursos\\BlockChain\\Etapa5\\ArbitrajeBot\\05_ArbitrageBot\\05_ArbitrageBot.csproj",
+  "projectFilePath": "C:\\Cursos\\BlockChain\\Nivel1\\Etapa5\\ArbitrajeBot\\05_ArbitrageBot\\05_ArbitrageBot.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Usuario\\.nuget\\packages\\adraffy.ensnormalize\\0.3.1\\adraffy.ensnormalize.0.3.1.nupkg.sha512",
     "C:\\Users\\Usuario\\.nuget\\packages\\bouncycastle.cryptography\\2.5.1\\bouncycastle.cryptography.2.5.1.nupkg.sha512",
@@ -32,9 +32,9 @@
       "code": "NU1903",
       "level": "Warning",
       "message": "Package 'Newtonsoft.Json' 11.0.2 has a known high severity vulnerability, https://github.com/advisories/GHSA-5crp-9r3c-p9vr",
-      "projectPath": "C:\\Cursos\\BlockChain\\Etapa5\\ArbitrajeBot\\05_ArbitrageBot\\05_ArbitrageBot.csproj",
+      "projectPath": "C:\\Cursos\\BlockChain\\Nivel1\\Etapa5\\ArbitrajeBot\\05_ArbitrageBot\\05_ArbitrageBot.csproj",
       "warningLevel": 1,
-      "filePath": "C:\\Cursos\\BlockChain\\Etapa5\\ArbitrajeBot\\05_ArbitrageBot\\05_ArbitrageBot.csproj",
+      "filePath": "C:\\Cursos\\BlockChain\\Nivel1\\Etapa5\\ArbitrajeBot\\05_ArbitrageBot\\05_ArbitrageBot.csproj",
       "libraryId": "Newtonsoft.Json",
       "targetGraphs": [
         "net10.0"
