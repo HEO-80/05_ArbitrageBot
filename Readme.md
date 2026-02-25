@@ -1,12 +1,3 @@
-¡Claro que sí! Vamos a documentar este proyecto.
-
-Analizando tu captura de pantalla, veo que estamos ante el 05_ArbitrageBot. Este código es una versión más temprana (V1) en la que usabas credenciales fijas en el código para conectarte a tu nodo local (Anvil) y hacías la llamada directa a la función solicitarPrestamo.
-
-Siguiendo exactamente la misma estructura profesional que hemos estado usando (primero puramente técnico y objetivo, luego la parte conceptual, y en ambos idiomas), aquí tienes el contenido para tu README.md.
-
-Copia el bloque de abajo y pégalo en el archivo README.md de tu carpeta 05_ArbitrageBot:
-
-Markdown
 # 🤖 Arbitrage Bot V1 - Vigilancia y Ejecución (C# Backend)
 
 Este repositorio contiene la primera versión del controlador *off-chain* desarrollado en C# (.NET), diseñado para interactuar con un Smart Contract de préstamos rápidos (Flash Loans) en un entorno de desarrollo local.
